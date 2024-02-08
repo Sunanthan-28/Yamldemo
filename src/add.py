@@ -1,5 +1,5 @@
 #app.py
-#tests
+#test
 def add(a,b):
   return a+b
 
