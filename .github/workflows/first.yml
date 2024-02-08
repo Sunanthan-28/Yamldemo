@@ -1,4 +1,4 @@
-name:first yml file
+name: first yml file
 
 on: [push]
 
