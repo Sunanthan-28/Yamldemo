@@ -1,9 +1,6 @@
 name: Basic test push
 
-on: 
-  push:
-    branches:
-      - 'autoupdate'
+on: [push]
 
 jobs:
   build:
